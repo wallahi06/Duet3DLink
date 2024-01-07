@@ -1,1 +1,1 @@
-Welcome to Duet3D Link repository
+Welcome to the Duet3D Link repository
